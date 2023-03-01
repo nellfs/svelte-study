@@ -12976,5 +12976,6 @@ export const allowed = new Set([
 	'zygal',
 	'zygon',
 	'zymes',
-	'zymic'
+	'zymic',
+	'nelfs'
 ]);
